@@ -1,3 +1,3 @@
 # public_data_files
 
-Data of central UDGs of TNG50 analysis for Benavides+21
+Data of central UDGs from TNG50 analysis of Benavides+21
